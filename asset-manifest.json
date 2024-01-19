@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cool-cursor/static/css/main.f03838b0.css",
+    "main.js": "/cool-cursor/static/js/main.843ec068.js",
+    "index.html": "/cool-cursor/index.html",
+    "main.f03838b0.css.map": "/cool-cursor/static/css/main.f03838b0.css.map",
+    "main.843ec068.js.map": "/cool-cursor/static/js/main.843ec068.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f03838b0.css",
+    "static/js/main.843ec068.js"
+  ]
+}
